@@ -75,6 +75,7 @@ i {
 
 .nav-link {
     font-size: 1.2rem;
+    color: rgb(238, 192, 192);
 }
 
 /* download button  */
@@ -174,6 +175,13 @@ i {
 
     .navbar-nav {
         text-align: right;
+    }
+    .navbar-brand{
+                font-size: 3.7rem;
+    }
+   .navbar-toggler-icon{
+        height: 3rem;
+        width: 3rem;
     }
 
 }
